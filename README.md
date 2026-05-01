@@ -27,7 +27,7 @@ Identifies top customers contributing to sales.
 -	Year-wise Revenue
 Displays sales distribution across different years.
 
-** Key Insights**
+**Key Insights**
 -	STORE8 generated the highest revenue among all stores.
 -	PROD39 is the top-performing product in terms of sales.
 -	PayPal is the most preferred payment method among customers.
@@ -79,6 +79,6 @@ The dataset contains retail sales information including:
 -	Develop loyalty programs and personalized offers for these high-value customers.
 
 **Conclusion**
-This dashboard helps businesses monitor sales performance, identify revenue drivers, and optimize strategies related to product sales, discounts, and payment methods.
+- This dashboard helps businesses monitor sales performance, identify revenue drivers, and optimize strategies related to product sales, discounts, and payment methods.
 
 ![Alt text](https://github.com/maha1606-gitoctocat/Ecommerce-Sales/blob/main/Dashboard.jpeg?raw=true)
