@@ -1,5 +1,5 @@
 # Ecommerce-Sales
-📌 Project Overview
+ Project Overview
 
 This project focuses on analyzing retail sales data using Microsoft Excel to identify key business insights and trends. 
 
@@ -7,7 +7,7 @@ The interactive dashboard provides a clear view of store performance, product sa
 
 The goal of this project is to transform raw sales data into meaningful insights that help businesses make data-driven decisions.
 
-🎯 Objectives
+Objectives
 
 •	Analyze store-wise revenue performance
 
@@ -21,7 +21,7 @@ The goal of this project is to transform raw sales data into meaningful insights
 
 •	Track year-wise revenue growth
 
-📊 Dashboard Features
+Dashboard Features
 
 The dashboard includes the following analytical visuals:
 
@@ -49,7 +49,7 @@ Identifies top customers contributing to sales.
 
 Displays sales distribution across different years.
 
-📈 Key Insights
+ Key Insights
 
 •	STORE8 generated the highest revenue among all stores.
 
@@ -63,7 +63,7 @@ Displays sales distribution across different years.
 
 •	2024 recorded the highest revenue share, indicating strong business growth.
 
-🛠 Tools & Technologies Used
+Tools & Technologies Used
 
 •	Microsoft Excel
 
@@ -78,7 +78,7 @@ Displays sales distribution across different years.
 
 •	Dashboard Design
 
-📂 Dataset Description
+ Dataset Description
 
 The dataset contains retail sales information including:
 
@@ -107,18 +107,22 @@ The dataset contains retail sales information including:
 
 •	Store Details
 
-🚀 Skills Demonstrated
+ Skills Demonstrated
 
 •	Data Cleaning
+
 •	Data Transformation
 
 •	Data Visualization
+
 •	Business Insight Generation
 
 •	Dashboard Design
 
 •	Analytical Thinking
 
-💡 Conclusion
+ Conclusion
 
 This dashboard helps businesses monitor sales performance, identify revenue drivers, and optimize strategies related to product sales, discounts, and payment methods.
+
+![Alt text](https://github.com/maha1606-gitoctocat/Ecommerce-Sales/blob/main/Dashboard.jpeg?raw=true)
