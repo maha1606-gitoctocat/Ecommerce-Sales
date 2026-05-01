@@ -1,16 +1,16 @@
 # Ecommerce-Sales
  Project Overview
--This project focuses on analyzing retail sales data using Microsoft Excel to identify key business insights and trends. 
--The interactive dashboard provides a clear view of store performance, product sales, payment methods, customer contribution, discount impact, and yearly revenue trends.
--The goal of this project is to transform raw sales data into meaningful insights that help businesses make data-driven decisions.
+- This project focuses on analyzing retail sales data using Microsoft Excel to identify key business insights and trends. 
+- The interactive dashboard provides a clear view of store performance, product sales, payment methods, customer contribution, discount impact, and yearly revenue trends.
+- The goal of this project is to transform raw sales data into meaningful insights that help businesses make data-driven decisions.
 
 Objectives
--•	Analyze store-wise revenue performance
--•	Identify top-performing products
--•	Understand customer purchasing behavior
--•	Evaluate the impact of discount strategies on revenue
--•	Examine payment method preferences
--•	Track year-wise revenue growth
+- •	Analyze store-wise revenue performance
+- •	Identify top-performing products
+- •	Understand customer purchasing behavior
+- •	Evaluate the impact of discount strategies on revenue
+- •	Examine payment method preferences
+- •	Track year-wise revenue growth
 
 Dashboard Features
 The dashboard includes the following analytical visuals:
