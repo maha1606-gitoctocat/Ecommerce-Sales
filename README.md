@@ -1,5 +1,5 @@
 # Ecommerce-Sales
-** Project Overview**
+**Project Overview**
 - This project focuses on analyzing retail sales data using Microsoft Excel to identify key business insights and trends. 
 - The interactive dashboard provides a clear view of store performance, product sales, payment methods, customer contribution, discount impact, and yearly revenue trends.
 - The goal of this project is to transform raw sales data into meaningful insights that help businesses make data-driven decisions.
@@ -44,7 +44,7 @@ Displays sales distribution across different years.
 -	Interactive Slicers
 -	Dashboard Design
 
-** Dataset Description**
+**Dataset Description**
 The dataset contains retail sales information including:
 -	Sales ID
 -	Order Date
@@ -60,7 +60,7 @@ The dataset contains retail sales information including:
 -	Product Details
 -	Store Details
 
-** Skills Demonstrated**
+**Skills Demonstrated**
 -	Data Cleaning
 -	Data Transformation
 -	Data Visualization
@@ -78,7 +78,7 @@ The dataset contains retail sales information including:
 -	Implement controlled discount strategies around this optimal range to maximize profitability. 
 -	Develop loyalty programs and personalized offers for these high-value customers.
 
-** Conclusion**
+**Conclusion**
 This dashboard helps businesses monitor sales performance, identify revenue drivers, and optimize strategies related to product sales, discounts, and payment methods.
 
 ![Alt text](https://github.com/maha1606-gitoctocat/Ecommerce-Sales/blob/main/Dashboard.jpeg?raw=true)
